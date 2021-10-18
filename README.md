@@ -1,1 +1,3 @@
 # Pathfinding
+
+C++ Pathfinding Visualizer. Work in progress...
